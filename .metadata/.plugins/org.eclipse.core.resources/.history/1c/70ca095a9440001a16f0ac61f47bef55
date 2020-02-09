@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class Basico_02 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		int valor= input.nextInt();
+		
+		while (valor != 0) {
+			valor = input.nextInt();
+		}
+		
+		input.close();
+	}
+
+}

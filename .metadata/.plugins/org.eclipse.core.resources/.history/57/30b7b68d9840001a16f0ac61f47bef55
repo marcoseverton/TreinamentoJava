@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class Basico_02 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		/*
+		int valor= input.nextInt();
+		int soma = 0;
+		
+		while (valor != 0) {
+			soma += valor;
+			valor = input.nextInt();
+		}*/
+		int soma = 0;
+		int n = input.nextInt();
+		
+		for (int valor = 0; valor < n; valor ++) {
+			int x = input.nextInt();
+			soma += x; 
+		}
+		
+		input.close();
+		
+		System.out.println("valor dos numeros digitados: "+ soma);
+	}
+
+}
