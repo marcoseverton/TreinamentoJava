@@ -7,5 +7,7 @@
 	<classpathentry kind="src" path="src_03"/>
 	<classpathentry kind="src" path="src_04"/>
 	<classpathentry kind="src" path="src_05"/>
+	<classpathentry kind="src" path="src_06"/>
+	<classpathentry kind="src" path="src_07"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
