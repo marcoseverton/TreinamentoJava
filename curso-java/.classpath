@@ -10,5 +10,8 @@
 	<classpathentry kind="src" path="src_06"/>
 	<classpathentry kind="src" path="src_07"/>
 	<classpathentry kind="src" path="exceptions-01"/>
+	<classpathentry kind="src" path="arquivos-java_01"/>
+	<classpathentry kind="src" path="arquivos-java_02"/>
+	<classpathentry kind="src" path="arquivos-java_03"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
