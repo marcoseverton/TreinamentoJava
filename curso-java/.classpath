@@ -16,5 +16,6 @@
 	<classpathentry kind="src" path="arquivos-java_04"/>
 	<classpathentry kind="src" path="arquivos-java_05"/>
 	<classpathentry kind="src" path="interfaces_01"/>
+	<classpathentry kind="src" path="interfaces_02"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
