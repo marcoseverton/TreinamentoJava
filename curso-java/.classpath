@@ -19,6 +19,7 @@
 	<classpathentry kind="src" path="interfaces_02"/>
 	<classpathentry kind="src" path="interfaces_03"/>
 	<classpathentry kind="src" path="capturando-log-com-Set"/>
-	<classpathentry kind="src" path="map-java"/>
+	<classpathentry kind="src" path="map-java_01"/>
+	<classpathentry kind="src" path="map-java_02"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
