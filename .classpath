@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="curso-java/arquivos-java_01"/>
+	<classpathentry kind="src" path="curso-java/arquivos-java_02"/>
+	<classpathentry kind="src" path="curso-java/arquivos-java_03"/>
+	<classpathentry kind="src" path="curso-java/arquivos-java_04"/>
+	<classpathentry kind="src" path="curso-java/arquivos-java_05"/>
+	<classpathentry kind="src" path="curso-java/capturando-log-com-Set"/>
+	<classpathentry kind="src" path="curso-java/consumer-java"/>
+	<classpathentry kind="src" path="curso-java/exceptions-01"/>
+	<classpathentry kind="src" path="curso-java/expressoes-lambda-java"/>
+	<classpathentry kind="src" path="curso-java/function-java"/>
+	<classpathentry kind="src" path="curso-java/function-lambda_java"/>
+	<classpathentry kind="src" path="curso-java/interfaces_01"/>
+	<classpathentry kind="src" path="curso-java/interfaces_02"/>
+	<classpathentry kind="src" path="curso-java/interfaces_03"/>
+	<classpathentry kind="src" path="curso-java/map-java_01"/>
+	<classpathentry kind="src" path="curso-java/map-java_02"/>
+	<classpathentry kind="src" path="curso-java/src"/>
+	<classpathentry kind="src" path="curso-java/src_01"/>
+	<classpathentry kind="src" path="curso-java/src_02"/>
+	<classpathentry kind="src" path="curso-java/src_03"/>
+	<classpathentry kind="src" path="curso-java/src_04"/>
+	<classpathentry kind="src" path="curso-java/src_05"/>
+	<classpathentry kind="src" path="curso-java/src_06"/>
+	<classpathentry kind="src" path="curso-java/src_07"/>
+	<classpathentry kind="src" path="curso-java/streams-java"/>
+	<classpathentry kind="src" path="Treinamento-JavaOO/src"/>
+	<classpathentry kind="output" path="curso-java/bin"/>
+</classpath>
