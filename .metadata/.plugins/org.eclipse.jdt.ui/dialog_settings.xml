@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.lastuserlibrary" value="/home/mealmeida/java-plugins/jdbc-conector/mysql-connector-java-5.1.47.jar"/>
 	<item key="UserLibraryLoadSaveDialog.size" value="560,578"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="/home/mealmeida/java-plugins/jdbc-conector"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="/home/mealmeida/java-plugins/javafx-sdk-11.0.2/lib"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -24,7 +24,7 @@
 		<item key="create_unimplemented" value="true"/>
 	</section>
 	<section name="ClasspathContainerSelectionPage">
-		<item key="index" value="8"/>
+		<item key="index" value="10"/>
 	</section>
 	<section name="NewPackageWizardPage">
 		<item key="create_package_info_java" value="false"/>
